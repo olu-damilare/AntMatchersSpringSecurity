@@ -1,5 +1,5 @@
 
-# Springboot Security AntMachers
+# Springboot Security AntMatchers
 
 This API is built to demonstrate how to secure the endpoints of your API based on the role of client.
 
